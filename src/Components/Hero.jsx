@@ -9,7 +9,7 @@ function Hero() {
       <h3 className='text-2xl py-2 md:text-3xl dark:text-white'>Front-End Developer and Designer</h3>
       <p className='text-md py-5 leading-8 text-gray-800 md:text-xl max-w-lg mx-auto dark:text-gray-200'>
         Hello There,I'm a Final year engineering 
-        student with a knack for  <span className="text-md text-teal-500"> Development </span> and  <span className="text-md text-teal-500"> Content Creation </span>. I've an inate passion for making aesthetically pleasing websites.
+        student with a knack for  <span className="text-md text-teal-500"> Development </span> and  <span className="text-md text-teal-500"> Content Creation </span>. I've an inate passion for making websites.
         You can find me editing videos in my spare time or posting Letterboxd Reviews...
       </p>
       

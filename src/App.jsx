@@ -22,7 +22,8 @@ function App() {
             className='cursor-pointer text-2xl hover: box-shadow-hover:hover transition duration-500 transform hover:scale-110'/>
           </li>
           <li className=' hover: box-shadow-hover:hover transition duration-500 transform hover:scale-105'>
-            <a className="bg-gradient-to-tr from-cyan-500 to-teal-500  text-white px-4 py-2 rounded-md ml-8 hover:bg-gradient-to-l from-cyan-500 to-teal-500" href="https://docs.google.com/document/d/1q6y_z9DWyuEByx0AKamMkvPtzIlkJmLKw972owDxK04/edit?usp=sharing" target="_blank">Resume</a>
+            <a className="bg-gradient-to-tr from-cyan-500 to-teal-500  text-white px-4 py-2 rounded-md ml-8 hover:bg-gradient-to-l from-cyan-500 to-teal-500" 
+            href="https://docs.google.com/document/d/1VWiOE3QW7CZgic18yAtzBIgH6aRqZMBQDrfbm8Qk4LY/edit?usp=sharing" target="_blank">Resume</a>
           </li>
         </ul>
       </nav>
